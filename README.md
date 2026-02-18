@@ -1,4 +1,4 @@
-# 🌸🐬 Ｋｉｎｏ ＆ Ｂｏｏｋｓ — Советчик (≧◡≦) 🐬🌸
+# 🌸 (˶˃ ᵕ ˂˶) .ᐟ.ᐟ Кино и Книги — Советчик 🌸
 
 ![Python](https://img.shields.io/badge/python-3.12-brightgreen)
 ![Streamlit](https://img.shields.io/badge/streamlit-%E2%9C%A8-ready-blue)
