@@ -68,7 +68,7 @@ my_project/
 
 <p><b>Исабек Тина</b> — разработка проекта</p>
 
-<img src="https://i.pinimg.com/originals/45/9c/c2/459cc283ee9bddcf14be26902c85cbd7.gif" width="400" alt="Cute GIF"/>
+<img src="https://i.pinimg.com/originals/c1/e9/6c/c1e96cc4f2f298516bfc579a9397e960.gif" width="400" alt="Cute Anime GIF"/>
 
 <p><b>Хасенова Инкара</b> — разработка проекта</p>
 
