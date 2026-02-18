@@ -62,11 +62,14 @@ my_project/
 ├── notebooks/
 └── docs/
 ```
-
+<p align="center">
 ## 🦋 Команда Winx
+</p>
 
+<p align="center">
 * **Исабек Тина** — Текна, разработка проекта
 * **Хасенова Инкара** — Стелла, разработка проекта
+</p>
   
 <p align="center">
   <img src="https://gifdb.com/images/high/anime-best-friends-friends-playing-in-snow-bg1qo6yjqmfo48ha.webp" width="400" alt="Friends in Snow"/>
