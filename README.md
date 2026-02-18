@@ -69,7 +69,7 @@ my_project/
 * **Хасенова Инкара** — Стелла, разработка проекта
   
 <p align="center">
-  <img src="https://64.media.tumblr.com/21e59c254d9676314f1c3b4fb11c8446/b131e7fc3e663d0a-b4/s1280x1920/59b9554d1f5a3e07de90f6612d53681b5561fbd5.gif" width="400" alt="Winx Magic GIF"/>
+  <img src="https://gifdb.com/images/high/anime-best-friends-friends-playing-in-snow-bg1qo6yjqmfo48ha.webp" width="400" alt="Friends in Snow"/>
 </p>
 
 ---
