@@ -64,13 +64,13 @@ my_project/
 ```
 <div align="center">
 
-<h2>🦋 Команда Winx</h2>
+<h2>🦋 Команда Winx 🦋</h2>
 
-<p><b>Исабек Тина</b> — Текна, разработка проекта</p>
+<p><b>Исабек Тина</b> — разработка проекта</p>
 
-<img src="https://gifdb.com/images/high/anime-best-friends-friends-playing-in-snow-bg1qo6yjqmfo48ha.webp" width="400" alt="Friends in Snow"/>
+<img src="https://gifdb.com/images/high/anime-best-friends-friends-playing-in-snow-bg1qo6yjqmfo48ha.webp" width="400" alt="Friends in Snow"](https://i.pinimg.com/originals/45/9c/c2/459cc283ee9bddcf14be26902c85cbd7.gif"/>
 
-<p><b>Хасенова Инкара</b> — Стелла, разработка проекта</p>
+<p><b>Хасенова Инкара</b> — разработка проекта</p>
 
 </div>
 
