@@ -68,7 +68,7 @@ my_project/
 
 <p><b>Исабек Тина</b> — разработка проекта</p>
 
-<img src="https://gifdb.com/images/high/anime-best-friends-friends-playing-in-snow-bg1qo6yjqmfo48ha.webp" width="400" alt="Friends in Snow"](https://i.pinimg.com/originals/45/9c/c2/459cc283ee9bddcf14be26902c85cbd7.gif"/>
+<img src="https://i.pinimg.com/originals/45/9c/c2/459cc283ee9bddcf14be26902c85cbd7.gif" width="400" alt="Cute GIF"/>
 
 <p><b>Хасенова Инкара</b> — разработка проекта</p>
 
