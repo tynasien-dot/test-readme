@@ -1,9 +1,9 @@
 # 🌸 (˶˃ ᵕ ˂˶) .ᐟ.ᐟ Кино и Книги — Советчик 🌸
 
-![Python](https://img.shields.io/badge/Python-3.12-ff69b4?style=for-the-badge&logo=python&logoColor=ffffff)
-![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%A8-fuchsia?style=for-the-badge&logo=streamlit&logoColor=ffffff)
-![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge&logo=github&logoColor=ffffff)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=for-the-badge&logo=github&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3.12-pink?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%A8-fuchsia?style=flat-square&logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-lightpink?style=flat-square&logo=github&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=flat-square&logo=github&logoColor=white)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e5/1f/2f/e51f2f9a59dfd8e4e3012e144e2f19eb.gif" width="500" alt="Cute Animation"/>
