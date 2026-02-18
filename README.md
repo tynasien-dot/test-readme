@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalNPaZmFW/giphy.gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/e5/1f/2f/e51f2f9a59dfd8e4e3012e144e2f19eb.gif" width="500" alt="Cute Animation"/>
 </p>
 
 ✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* ✧･ﾟ:*  
