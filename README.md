@@ -1,9 +1,9 @@
 # 🌸 (˶˃ ᵕ ˂˶) .ᐟ.ᐟ Кино и Книги — Советчик 🌸
 
-![Python](https://img.shields.io/badge/python-3.12-brightgreen)
-![Streamlit](https://img.shields.io/badge/streamlit-%E2%9C%A8-ready-blue)
-![License](https://img.shields.io/badge/license-MIT-pink)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)
+![Python](https://img.shields.io/badge/Python-3.12-ff69b4?style=for-the-badge&logo=python&logoColor=ffffff)
+![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%A8-fuchsia?style=for-the-badge&logo=streamlit&logoColor=ffffff)
+![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge&logo=github&logoColor=ffffff)
+![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=for-the-badge&logo=github&logoColor=ffffff)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e5/1f/2f/e51f2f9a59dfd8e4e3012e144e2f19eb.gif" width="500" alt="Cute Animation"/>
